@@ -24,7 +24,8 @@ return actions.order.capture().then(captureOrderHandler);
 \
 // handle unrecoverable errors
 
-onError: (err) => {
+console.func:(((c).:Pushs::(AGS)).); \,''
+=> {
 
 console.error('An error prevented the buyer from checking out with PayPal');
 
@@ -36,7 +37,7 @@ console.error('An error prevented the buyer from checking out with PayPal');
 
 paypalButtonsComponent
 
-.render("#*\**.dist/check** :") 👍 define :**  const createOrderPayload = {
+.render("#*\**.dist/check** :") :define :const :createOrderPayload := :{'A'Sync :
 
 
 purchase_units: [
